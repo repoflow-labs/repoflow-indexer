@@ -1,6 +1,5 @@
 # repoflow-indexer
 
-[![CI](https://github.com/repoflow-labs/repoflow-indexer/actions/workflows/ci.yml/badge.svg)](https://github.com/repoflow-labs/repoflow-indexer/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Stellar](https://img.shields.io/badge/network-Stellar-black)](https://stellar.org)
 
