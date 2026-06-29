@@ -7,6 +7,8 @@ authors = ["RepoFlow Labs"]
 license = "MIT"
 repository = "https://github.com/repoflow-labs/repoflow-indexer"
 homepage = "https://github.com/repoflow-labs/repoflow-indexer"
+keywords = ["stellar", "soroban", "indexer", "blockchain"]
+categories = ["database::sql", "web-programming::http-server"]
 
 [[bin]]
 name = "server"
